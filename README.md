@@ -1,6 +1,6 @@
 # Study marterial for AI, Gen AI, python 🚀
 
-This repository contains useful links of **buildign AI concepts**, covering
+This repository contains useful links of **building AI concepts**, covering
 
 - **Generative AI**  
 - **Python basics**
