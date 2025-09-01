@@ -10,8 +10,8 @@ This repository contains useful links of **building AI concepts**, covering
 ---
 ## Generative AI and coding 
 - [Roadmap to Learn Generative AI in 2025, python, NLP, Gen AI](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2025)
-- [Use of Git and How to upload codes to Github](https://youtu.be/Ez8F0nW6S-w?si=6EVO4xcu0X5mJ-4a)
--
+- [Use of Git and How to upload codes to Github[Language -Hindi]](https://youtu.be/Ez8F0nW6S-w?si=6EVO4xcu0X5mJ-4a)
+- [Awesom-GenAI](https://github.com/degouville/awesome-genai)
 -
 
 
