@@ -1,8 +1,8 @@
-# Study marterial for AI, Gen AI, python 🚀
+# Study marterial for AI, Generative AI, python 🚀
 
 This repository contains useful links of **building AI concepts**, covering
 
-- **Generative AI**  
+- **Generative (Gen) AI**  
 - **Python basics**
 - **Audio and AI**
 - **roadmap for learning**  
@@ -17,8 +17,8 @@ This repository contains useful links of **building AI concepts**, covering
 
 ---
 
-### Gen AI useful Papers
-- [Title]()
+### Gen Audio AI useful Papers
+- [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://audioldm.github.io/)
 ```
 
 ```
