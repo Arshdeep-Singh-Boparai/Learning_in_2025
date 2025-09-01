@@ -1,4 +1,4 @@
-# Study marterial for AI, Generative AI, python 🚀
+# Study material for AI, Generative AI, python 🚀
 
 This repository contains useful links of **building AI concepts**, covering
 
@@ -26,7 +26,7 @@ This repository contains useful links of **building AI concepts**, covering
 ### Audio and Gen AI useful Papers
 - [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://audioldm.github.io/)
 - [Large-Audio-Models](https://github.com/liusongxiang/Large-Audio-Models)
-- [awesonme-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models)
+- [awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models)
 ---
 
 ## ✨ To-Do
