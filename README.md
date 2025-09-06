@@ -16,8 +16,9 @@ This repository contains useful links of **building AI concepts**, covering
 - [CS324 Standford course on LLM](https://stanford-cs324.github.io/winter2022/lectures/introduction/)
 - [Gen AI useful links (LinkedIn Post)](https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-want-to-start-studying-generative-activity-7125908710702350336-vhsm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA11imEBc1ATzo4gHVzRNPYoaOL7P_NBULI)
 ### Diffusion model basics
-- -[Diffusion Models for Generative Artificial Intelligence: An Introduction for Applied Mathematicians](https://doi.org/10.1137/23M1626232)
-- -[Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+- [Diffusion Models for Generative Artificial Intelligence: An Introduction for Applied Mathematicians](https://doi.org/10.1137/23M1626232)
+- [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+- [Diffusion model MIT YAN Lab lecture](https://youtu.be/7s2YAGoLcCA?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 ---
 
 ### Python, code creating, Git, Github uploading
