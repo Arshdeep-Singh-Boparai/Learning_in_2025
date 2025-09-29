@@ -38,6 +38,7 @@ This repository contains useful links of **building AI concepts**, covering
 - [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://audioldm.github.io/)
 - [Large-Audio-Models](https://github.com/liusongxiang/Large-Audio-Models)
 - [awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models)
+- [Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM)
 ---
 
 ## ✨ To-Do
