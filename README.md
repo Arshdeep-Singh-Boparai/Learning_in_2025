@@ -25,7 +25,11 @@ This repository contains useful links of **building AI concepts**, covering
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 - [Diffusion model MIT YAN Lab lecture](https://youtu.be/7s2YAGoLcCA?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 - [Introduction to Flow Matching and Diffusion Models, MIT Computer Science Class 6.S184: Generative AI with Stochastic Differential Equations](https://diffusion.csail.mit.edu/)
+  
+  (Python codes)
 - [Physics based deep learning](https://physicsbaseddeeplearning.org/probmodels-ddpm-fm.html)
+- [Hugging face diffusion models](https://huggingface.co/learn/diffusion-course/en/unit1/3)
+- [DDPM pythorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 ---
 
 ### Python, code creating, Git, Github uploading
