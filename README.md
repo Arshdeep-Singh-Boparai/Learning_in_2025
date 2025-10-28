@@ -29,7 +29,7 @@ This repository contains useful links of **building AI concepts**, covering
   (Python codes)
 - [Physics based deep learning](https://physicsbaseddeeplearning.org/probmodels-ddpm-fm.html)
 - [Hugging face diffusion models](https://huggingface.co/learn/diffusion-course/en/unit1/3)
-- [DDPM pythorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
+- [DDPM pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 ---
 
 ### Python, code creating, Git, Github uploading
