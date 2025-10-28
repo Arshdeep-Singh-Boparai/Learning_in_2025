@@ -30,12 +30,13 @@ This repository contains useful links of **building AI concepts**, covering
 - [Physics based deep learning](https://physicsbaseddeeplearning.org/probmodels-ddpm-fm.html)
 - [Hugging face diffusion models](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 - [DDPM pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
-- [Pytorch, python, deep learning basics](https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html)
+
 ---
 
 ### Python, code creating, Git, Github uploading
 - [Python-language Full course (Hindi)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
 - [Use of Git and How to upload codes to Github[Language -Hindi]](https://youtu.be/Ez8F0nW6S-w?si=6EVO4xcu0X5mJ-4a)
+- [Pytorch, python, deep learning basics](https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html)
 
 
 ---
